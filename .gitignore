@@ -1,0 +1,12 @@
+# Junk files
+DS_Store
+*~
+*.swp
+
+# Project files
+.idea/
+.vscode/
+node_modules/
+
+# Build output
+lib/
